@@ -1,5 +1,5 @@
 
-# Prueba en Pasarela de Vuelos de Servicios REST con HATEOAS, Docker, MySQL y Kubernetes
+# Desarrollo y pruebas de una API REST de gestión de vuelos con HATEOAS, Docker, MySQL y Kubernetes
 **Curso:** Arquitectura de Software  
 **Facultad de Ingenería - Universidad de Antioquia**  
 
