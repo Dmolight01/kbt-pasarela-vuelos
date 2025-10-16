@@ -1,5 +1,5 @@
 
-# Prueba Pasarela de Vuelos Servicios REST con HATEOAS, Docker, MySQL y Kubernetes
+# Prueba en Pasarela de Vuelos de Servicios REST con HATEOAS, Docker, MySQL y Kubernetes
 **Curso:** Arquitectura de Software  
 **Facultad de Ingenería - Universidad de Antioquia**  
 
